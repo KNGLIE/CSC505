@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.0.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>290</x>
+      <y>190</y>
+      <w>140</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Design
+--
+bg=orange
+
+ Estimating
+ Scheduling
+ Tracking
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>430</x>
+      <y>310</y>
+      <w>170</w>
+      <h>20</h>
+    </coordinates>
+    <panel_attributes>Implementation:
+--
+bg=orange
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>600</x>
+      <y>380</y>
+      <w>140</w>
+      <h>20</h>
+    </coordinates>
+    <panel_attributes>Verification
+--
+
+bg=orange
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>740</x>
+      <y>450</y>
+      <w>140</w>
+      <h>20</h>
+    </coordinates>
+    <panel_attributes>Deployment
+--
+bg=orange
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>200</x>
+      <y>60</y>
+      <w>140</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>120.0;120.0;120.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>330</x>
+      <y>180</y>
+      <w>160</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>140.0;120.0;140.0;10.0;14.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>310</y>
+      <w>130</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>110.0;60.0;110.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>680</x>
+      <y>380</y>
+      <w>130</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>110.0;60.0;110.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>150</x>
+      <y>130</y>
+      <w>140</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Costs
+Assumptions
+Risks
+Dependencies
+Success Metrics
+Timelines
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>570</x>
+      <y>400</y>
+      <w>170</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes> Beta Testing
+ Feedback Assessment
+ Rollout preparation
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>290</x>
+      <y>270</y>
+      <w>140</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Scope of the Project
+Logical Design
+Data Models
+Physical Design
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>430</x>
+      <y>330</y>
+      <w>170</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes> Technical Implementation
+ Code
+ QA Testing
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>740</x>
+      <y>470</y>
+      <w>140</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes> Updates
+ New Versions
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>580</x>
+      <y>100</y>
+      <w>290</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>My additions/changes are in this color
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>110</x>
+      <y>60</y>
+      <w>180</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Requirements
+--
+bg=orange
+Project Initiation
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
